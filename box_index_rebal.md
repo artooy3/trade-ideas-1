@@ -1,4 +1,4 @@
-# Dan Gershenson's "Box Skate" Around Index Rebalances
+# "Box Skate" Around Index Rebalances
 
 This is a niche options strategy that attempts to exploit assignment inefficiencies around index rebalances. It is not guaranteed to produce profit every time, but it has zero risk. The chance of profit is higher if the strategy is scaled up a lot, which requires more capital.
 
