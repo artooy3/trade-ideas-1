@@ -10,6 +10,8 @@ At the same time, listed equity options face an important operational deadline. 
 
 This creates a small but interesting market inefficiency.
 
+Specifically, initial option exercise decisions are due by market close (4 PM EST), but S&P Index Rebalance changes are officially announed between 5:15 to 5:30 PM EST. Some exchanges have a deadline for submitting the contrary decision of 5:30 PM EST. So there is a ~15-minute window to submit contrary decisions. All the precise rules and details definitely need to be double-checked for each exchange. 
+
 ## Trade Construction
 
 The trade is typically established using a box spread between strikes K1 and K2.
